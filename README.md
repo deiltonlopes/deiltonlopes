@@ -11,6 +11,7 @@ I'm Deilton Figueiredo, a computer science student concerned about society, eage
 ##### Anyway, this is where I'm at right now:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=deiltonlopes&count_private=true&show_icons=true&theme=tokyonight"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiltonlopes&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
