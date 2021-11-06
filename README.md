@@ -14,7 +14,7 @@
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/delofigueiredo/" height="22" title="Instagram" />](https://www.instagram.com/delofigueiredo/)
 
 ## Anyway, this is where I'm at right now:
-|<img src="https://github-readme-stats.vercel.app/api?username=deiltonlopes&count_private=true&show_icons=true&theme=tokyonight" height="160px" width="auto"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiltonlopes&layout=compact&count_private=true&show_icons=true&theme=tokyonight" height="160px" width="auto"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=deiltonlopes&count_private=true&show_icons=true&theme=tokyonight" height="160px" width="auto"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiltonlopes&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=html" height="160px" width="auto"/>|
 ------------|-----------
 
 <!--
