@@ -4,7 +4,7 @@
 
 <p align="justify">I'm Deilton Figueiredo, a computer science student concerned about society, eager to learn and make a difference in the world. I like watching animations, playing tabletop RPG and hearing any kind of trivia</p>
 
-- 🔭 I’m currently working on <a href="https://deiltonlopes.github.io/MyCookBook/index.html">***My cook book***</a>
+- 🔭 My most recent project was <a href="https://deiltonlopes.github.io/MyCookBook/index.html">***My cook book***</a>
 - 🌱 I’m currently learning <img height="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <img height="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img height="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img height="18px" src="https://user-images.githubusercontent.com/62446763/139593115-53faf34f-51a0-4e89-9fbe-8a58d3e8a736.png"/>
 
 
